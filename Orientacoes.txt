@@ -1,2 +1,3 @@
 Pule uma linha, coloque seu nome e seu usuário do github, de acordo com o modelo.
 ESTE ARQUIVO DEVE ESTAR DENTRO DO .gitignore
+
